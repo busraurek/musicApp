@@ -1,0 +1,93 @@
+[
+    {
+        "id": "0",
+        "title": "Dip",
+        "artist": "Madrigal",
+        "album": "Neogazino" ,
+        "year": 2021 ,
+        "isSoldOut": true ,
+        "imageUrl": "https://i.ytimg.com/an/B0fJmlA49D4/17647511755017707019_mq.jpg?v=607a8f8d"
+    },
+    {
+        "id": "1",
+        "title": "Bu Aşk Fazla Sana",
+        "artist": "Şebnem Ferah",
+        "album": "Kadın" ,
+        "year": 1996 ,
+        "isSoldOut": false ,
+        "imageUrl": "https://images.genius.com/ff09a9ddc576c454ac6eaaac49fb57da.600x600x1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Another Love",
+        "artist": "Tom Odell",
+        "album": "Long Way Down" ,
+        "year": 2013 ,
+        "isSoldOut": true ,
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f"
+    },
+    {
+        "id": "3",
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "album": "8 Mil" ,
+        "year": 2002 ,
+        "isSoldOut": false ,
+        "imageUrl": "https://i1.sndcdn.com/artworks-000525421065-lx18dc-t500x500.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Sevmemeliyiz",
+        "artist": "Sena Şener",
+        "album": "İnsan Gelir İnsan Geçer" ,
+        "year": 2018 ,
+        "isSoldOut": true ,
+        "imageUrl": "https://i.ytimg.com/vi/wFRS1knPg_Y/maxresdefault.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Madem",
+        "artist": "Dolu Kadehi Ters Tut ",
+        "album": "Karanlık" ,
+        "year": 2019 ,
+        "isSoldOut": false ,
+        "imageUrl": "https://i.ytimg.com/vi/Y3RXd7EasIU/maxresdefault.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Bi' Tek Ben Anlarım",
+        "artist": "KÖFN",
+        "album": "Bi' Tek Ben Anlarım" ,
+        "year": 2022 ,
+        "isSoldOut": true ,
+        "imageUrl": "https://images.genius.com/bb478d9c3e417217a5781b447c332694.1000x1000x1.png"
+    },
+    {
+        "id": "7",
+        "title": "Kül",
+        "artist": "Cem Adrian",
+        "album": "İnsan Gelir İnsan Geçer" ,
+        "year": 2021 ,
+        "isSoldOut": true ,
+        "imageUrl": "https://i.ytimg.com/vi/ecWFMHJ1yno/maxresdefault.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Uzaklara Savrulalım",
+        "artist": "Perdenin Ardındakiler",
+        "album": "Sanrılar" ,
+        "year": 2021 ,
+        "isSoldOut": false ,
+        "imageUrl": "https://i.hbrcdn.com/haber/2021/02/05/perdenin-ardindakiler-ft-mark-eliyahu-uzaklara-13909092_2081_amp.webp"
+    },
+    {
+        "id": "9",
+        "title": "Aşk Her Şeyi Affeder Mi?",
+        "artist": "Özlem Tekin",
+        "album": "Kime Ne" ,
+        "year": 1995 ,
+        "isSoldOut": true ,
+        "imageUrl": "https://c.saavncdn.com/622/Kime-Ne--Turkish-2018-20180421130637-500x500.jpg"
+    }
+
+]
